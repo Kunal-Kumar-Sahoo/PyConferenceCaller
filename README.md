@@ -1,6 +1,6 @@
 ## PyConferenceCaller
 
-This is a simple web-based video conferencing application using Flask and Twilio.
+This is a simple web-based video conferencing application using <b>Flask</b> and <b>Twilio</b>.
 
 ## Installation Instructions
 
@@ -14,4 +14,4 @@ To install the application on your system follow these steps:
 6. Execute `python app.py` to start the server.
 7. Navigate to *http://localhost:5000* on your web browser. Connecting to the service from a phone or another computer may not work, as browsers require a secure (HTTPS) connection to give access to the media APIs. In that case, I suggest you use [ngrok](https://ngrok.com/) to give your application a temporary HTTPS URL.
 
-Made with :love by ![Kunal](github.com/Kunal-Kumar-Sahoo)
+Made with :heart: by <b>[Kunal](instagram.com/kunal.sahoo2003)</b>
